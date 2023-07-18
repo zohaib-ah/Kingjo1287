@@ -2,8 +2,7 @@
 
 ## I'm a Computer Science Student
 
-![](https://komarev.com/ghpvc/?username=Kingjo1287&style=plastic)
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Kingjo1287&style=plastic" alt="Zohaib ahmad" /> </p>
 
 - 🖊️ Have strong knowlegde of DSA and OS.
 - 📖 Currently learning about machine learning and a little bit of API development.
