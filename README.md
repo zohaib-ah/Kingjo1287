@@ -3,7 +3,7 @@ Zohaib Ahmad
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingjo1287&hide_progress=true&show_icons=true&theme=dracula)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingjo1287&hide=prs,issues&show_icons=true&theme=dracula)]
 
 
 
