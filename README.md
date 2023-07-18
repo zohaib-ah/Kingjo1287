@@ -1,10 +1,11 @@
-# Hi there, I'm Zohaib Ahmad
+<h1 align="center">Hi there, I'm Zohaib Ahmad</h1>
 
-## I'm a Computer Science Student
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Kingjo1287&style=plastic" alt="Zohaib ahmad" /> </p>
 
-- 🖊️ Have strong knowlegde of DSA and OS.
+
+- 
+- 🖊️I am a computer science student having strong knowlegde of DSA and OS.
 - 📖 Currently learning about machine learning and a little bit of API development.
 - ⚡ I love to create 3d models for fun.
 
