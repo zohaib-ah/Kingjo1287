@@ -2,9 +2,10 @@
 
 ## I'm a Computer Science Student
 
--🖊️ Have strong knowlegde of DSA and OS.
--📖 Currently learning about machine learning and a little bit of API development.
--⚡ I love to create 3d models for fun. 
+- 🖊️ Have strong knowlegde of DSA and OS.
+- 📖 Currently learning about machine learning and a little bit of API development.
+- ⚡ I love to create 3d models for fun.
+
 <br />
 
 
